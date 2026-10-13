@@ -1,7 +1,7 @@
 
 # ARVON AI — Freshworks RAG Chatbot
 
-"<img width="618" height="143" alt="image" src="https://github.com/user-attachments/assets/613e245c-1ad3-4320-935e-c8477743189d" />"
+<img width="618" height="143" alt="image" src="https://github.com/user-attachments/assets/613e245c-1ad3-4320-935e-c8477743189d" />
 
 ARVON AI is a Retrieval-Augmented Generation (RAG) chatbot designed to answer questions using Freshworks documents.
 
