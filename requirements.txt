@@ -1,0 +1,15 @@
+
+streamlit
+langchain
+langchain-community
+langchain-experimental
+langchain-chroma
+chromadb
+sentence-transformers
+rank-bm25
+groq
+pypdf
+beautifulsoup4
+unstructured
+python-docx
+nltk
