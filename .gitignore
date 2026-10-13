@@ -1,31 +1,28 @@
 
-# Python
+# Python cache
 __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# API keys and secrets
 .env
-
-# API secrets
 .streamlit/secrets.toml
-# Local vector database and generated chunks
-chroma_db/
-chunks.pkl
 
-# Source document collections
+# Streamlit configuration
+.streamlit/
+
+# Original source documents (keep private)
 DATA/
 DATA2/
 
 # Large archives
 *.zip
 
-# Logs
+# Log files
 *.log
 
-# Other local files
-files.zip
-*.log
-
-# Streamlit and Python cache
-.streamlit/
-__pycache__/
+# Temporary files
+*.tmp
+.DS_Store
+Thumbs.db
