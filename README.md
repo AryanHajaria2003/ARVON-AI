@@ -40,7 +40,7 @@ This project demonstrates an end-to-end RAG workflow, from document preprocessin
 
 Try the deployed application:
 
-**[Launch ARVON AI](https://arvon-ai-aryanhajaria.streamlit.app/)**
+**[Launch ARVON AI](https://arvon-ai-aryan-hajaria.streamlit.app/)**
 
 Ask questions about Freshworks financial results, products, AI capabilities, and other topics covered by the indexed documents.
 
