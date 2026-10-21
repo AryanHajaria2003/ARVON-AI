@@ -8,7 +8,7 @@ from Rag_pipeline import generate_answer
 # ============================================================
 
 st.set_page_config(
-    page_title="ARVON AI | Freshworks RAG Assistant",
+    page_title="ARVON AI | Freshwork RAG Assistant",
     page_icon="🔥",
     layout="wide"
 )
@@ -19,7 +19,7 @@ st.set_page_config(
 # ============================================================
 
 APP_NAME = "ARVON AI"
-APP_SUBTITLE = "Freshworks RAG Assistant"
+APP_SUBTITLE = "XYZ Company RAG Assistant"
 AUTHOR = "Aryan Hajaria"
 
 GITHUB = "https://github.com/AryanHajaria2003"
